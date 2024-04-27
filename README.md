@@ -1,3 +1,2 @@
-[minqwq@localhost ~] $ mkdir test
-[minqwq@localhost ~] $ cd ./test
-[minqwq@localhost ~/test] $ nano untitled.txt
+< ! > 您可能是正版软件的受害者。
+- [重装为盗版系统]
