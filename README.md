@@ -1,2 +1,4 @@
-< ! > 您可能是正版软件的受害者。
-- [重装为盗版系统]
+13yo  
+web developer/pixel art artist/old tech lover  
+birthday:2011-01-23  
+JavaScript so hard😢  
