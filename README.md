@@ -12,9 +12,9 @@ then i made this name lah
 first appear at 2023  
   
 # Contact
-# Instant contact
+**Instant contact:**
 QQ:1617195774
-# Leave a message
+**Leave a message:**
 E-Mail:minqwq723897@outlook.com  
 Telegram:minqwq723897/sudo echo minqwq(t.me/minqwq723897)  
 Twitter:@minqwq_twi
