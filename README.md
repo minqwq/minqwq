@@ -3,4 +3,10 @@ web developer/pixel art artist/old tech lover/debian and archlinux user
 birthday:2011-01-23  
 JavaScript so hard😢  
 live in china/shandong/zibo  
-im not a programmer! its to hard
+im not a programmer! its to hard  
+  
+minqwq  
+"Min"(all lowercase)ecraft723897  
+and add "qwq" emotion to right
+then i made this name lah
+first appear at 2023
