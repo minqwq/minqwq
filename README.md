@@ -9,4 +9,12 @@ minqwq
 "Min"(all lowercase)ecraft723897  
 and add "qwq" emotion to right
 then i made this name lah
-first appear at 2023
+first appear at 2023  
+  
+# Contact
+# Instant contact
+QQ:1617195774
+# Leave a message
+E-Mail:minqwq723897@outlook.com  
+Telegram:minqwq723897/sudo echo minqwq(t.me/minqwq723897)  
+Twitter:@minqwq_twi
