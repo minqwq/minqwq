@@ -1,5 +1,5 @@
 13yo  
-[moved to "bio"]
+[moved to "bio"]  
 birthday:2011-01-23  
 JavaScript so hard😢  
 live in china/shandong/zibo  
