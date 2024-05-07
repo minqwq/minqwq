@@ -6,7 +6,7 @@ live in china/shandong/zibo
 im not a programmer! its to hard  
   
 my projects:  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minqwq&repo=pixel-art-logo)](https://github.com/minqwq/pixel-art-logo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minqwq&repo=pixelart-logo)](https://github.com/minqwq/pixelart-logo)
   
 minqwq  
 "Min"(all lowercase)ecraft723897  
