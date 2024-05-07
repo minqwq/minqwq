@@ -4,6 +4,7 @@ birthday:2011-01-23
 JavaScript so hard😢  
 live in china/shandong/zibo  
 im not a programmer! its to hard  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minqwq&layout=compact)
   
 minqwq  
 "Min"(all lowercase)ecraft723897  
