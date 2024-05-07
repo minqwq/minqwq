@@ -8,7 +8,7 @@ im not a programmer! its to hard
 ![minqwq's GitHub stats](https://github-readme-stats.vercel.app/api?username=minqwq&show_icons=true&theme=holi)
   
 my projects:  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minqwq&repo=pixelart-logo)](https://github.com/minqwq/pixelart-logo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minqwq&repo=pixelart-logo&theme=holi)](https://github.com/minqwq/pixelart-logo)
   
 minqwq  
 "Min"(all lowercase)ecraft723897  
