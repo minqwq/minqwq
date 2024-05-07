@@ -5,9 +5,7 @@ JavaScript so hard😢
 live in china/shandong/zibo  
 im not a programmer! its to hard  
 
-<code>
-minqwq@localhost ~ $ apt moo
-</code>
+<code>minqwq@localhost ~ $ apt moo</code>  
   
 ![minqwq's GitHub stats](https://github-readme-stats.vercel.app/api?username=minqwq&show_icons=true&theme=holi&locale=cn)  
   
