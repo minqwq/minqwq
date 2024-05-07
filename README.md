@@ -5,6 +5,8 @@ JavaScript so hard😢
 live in china/shandong/zibo  
 im not a programmer! its to hard  
   
+![minqwq's GitHub stats](https://github-readme-stats.vercel.app/api?username=minqwq&show_icons=true&theme=react)
+  
 my projects:  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minqwq&repo=pixelart-logo)](https://github.com/minqwq/pixelart-logo)
   
