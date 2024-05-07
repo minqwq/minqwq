@@ -4,7 +4,9 @@ birthday:2011-01-23
 JavaScript so hard😢  
 live in china/shandong/zibo  
 im not a programmer! its to hard  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minqwq&layout=compact)
+  
+my projects:  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minqwq&repo=pixel-art-logo)](https://github.com/minqwq/pixel-art-logo)
   
 minqwq  
 "Min"(all lowercase)ecraft723897  
