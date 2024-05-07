@@ -6,7 +6,6 @@ live in china/shandong/zibo
 im not a programmer! its to hard  
   
 ![minqwq's GitHub stats](https://github-readme-stats.vercel.app/api?username=minqwq&show_icons=true&theme=holi)  
-[![minqwq's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=minqwq&theme=holi)](https://github.com/anuraghazra/github-readme-stats)
   
 my projects:  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minqwq&repo=pixelart-logo&theme=holi)](https://github.com/minqwq/pixelart-logo)
