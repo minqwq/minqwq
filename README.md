@@ -4,9 +4,9 @@ birthday:2011-01-23
 JavaScript so hard😢  
 live in china/shandong/zibo  
 im not a programmer! its to hard  
-
-Listen my favorite song  
-<audio src="oni.m4a" type="audio/mpeg" controls>
+  
+![Static Badge](https://img.shields.io/badge/android-Android-brightgreen?style=flat&logo=android&label=8.1.0)  
+![Static Badge](https://img.shields.io/badge/HTML-5-%23FF6600?style=flat&logo=html5&label=HTML)  
   
 <code>minqwq@localhost ~ $ apt moo</code>  
 
