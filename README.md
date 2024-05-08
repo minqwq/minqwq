@@ -10,7 +10,7 @@ Listen my favorite song
   
 <code>minqwq@localhost ~ $ apt moo</code>  
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=Jurredr&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)  
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=minqwq&data=followers,repositories,stars,commits)](https://github.com/Jurredr/github-widgetbox)  
 ![minqwq's GitHub stats](https://github-readme-stats.vercel.app/api?username=minqwq&show_icons=true&theme=holi&locale=cn)  
   
 my projects:  
