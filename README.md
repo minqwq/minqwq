@@ -12,6 +12,7 @@ Listen my favorite song
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=minqwq&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)  
 ![minqwq's GitHub stats](https://github-readme-stats.vercel.app/api?username=minqwq&show_icons=true&theme=holi&locale=cn)  
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=html,bash,x86,arm,markdown)](https://github.com/Jurredr/github-widgetbox)  
   
 my projects:  
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=minqwq&repo=pixelart-logo&theme=holi&locale=cn)](https://github.com/minqwq/pixelart-logo)
