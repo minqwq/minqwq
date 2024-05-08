@@ -6,7 +6,7 @@ live in china/shandong/zibo
 im not a programmer! its to hard  
 
 Listen my favorite song  
-<audio />
+<audio src="oni.m4a" type="audio/mpeg" controls>
   
 <code>minqwq@localhost ~ $ apt moo</code>  
   
