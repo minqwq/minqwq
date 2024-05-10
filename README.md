@@ -1,5 +1,6 @@
 13yo  
-[moved to "bio"]  
+dont ever think i can write code, i only know markup language  
+buuut i can draw beautiful pixel art  
 birthday:2011-01-23  
 JavaScript so hard😢  
 live in china/shandong/zibo  
