@@ -1,3 +1,4 @@
+<marquee bgcolor="#000000" scrollspeed="7">Welcome to minqwq's github profile, Traveller</marquee>  
 13yo  
 dont ever think i can write code, i only know markup language  
 buuut i can draw beautiful pixel art  
