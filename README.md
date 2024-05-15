@@ -8,8 +8,8 @@ live in china/shandong/zibo
 im not a programmer! its to hard  
 
 Device:  
-![Static Badge](https://img.shields.io/badge/vivo-Y97-%230099FF?style=flat&logo=vivo&label=vivo)  
-![Static Badge](https://img.shields.io/badge/android-Android-brightgreen?style=flat&logo=android&label=8.1.0)  
+![Static Badge](https://img.shields.io/badge/Redmi-Note%209%205G-%230099FF?style=flat&logo=xiaomi&label=Redmi)  
+![Static Badge](https://img.shields.io/badge/android-Android-brightgreen?style=flat&logo=android&label=12)  
 
 I use what language:  
 ![Static Badge](https://img.shields.io/badge/HTML-5-%23FF6600?style=flat&logo=html5&label=HTML)  
@@ -19,6 +19,14 @@ I play what game most:
 ![Static Badge](https://img.shields.io/badge/Java%20Edition-%234F3838?style=flat&logo=minecraft&label=Minecraft)  
 ![Static Badge](https://img.shields.io/badge/Yuzusoft-Sabbat%20of%20the%20witch-%23FF9900?style=flat)  
 ![Static Badge](https://img.shields.io/badge/lazer-%23FC53FF?style=flat&logo=osu&label=osu!)  
+
+I like what operating system:  
+Windows XP  
+Windows 7(likest)  
+Windows 10  
+  
+Debian anyversion(likest)  
+Arch Linux  
   
 <code>minqwq@localhost ~ $ apt moo</code>  
 
