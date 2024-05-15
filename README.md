@@ -31,7 +31,7 @@ Debian anyversion(likest)
 Arch Linux  
 
 My workspace:  
-![workspaceshot1](/assets/img/IMG_20240515_124955.jpg)  
+![workspaceshot1](/assets/img/IMG_20240515_124955_125240.jpg)  
   
 <code>minqwq@localhost ~ $ apt moo</code>  
 
