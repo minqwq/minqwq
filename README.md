@@ -1,5 +1,6 @@
 ![私は雨](/im_the_rain.gif)  
 13yo  
+only working with my mobile, no computer  
 dont ever think i can write code, i only know markup language  
 buuut i can draw beautiful pixel art  
 birthday:2011-01-23  
