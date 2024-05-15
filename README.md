@@ -10,7 +10,7 @@ live in china/shandong/zibo
 im not a programmer! its to hard  
 
 Device:  
-![Static Badge](https://img.shields.io/badge/Redmi-Note%209%205G-%230099FF?style=flat&logo=xiaomi&label=Redmi)  
+![Static Badge](https://img.shields.io/badge/Redmi-Note%209%205G-%23FF4400?style=flat&logo=xiaomi&label=Redmi)  
 ![Static Badge](https://img.shields.io/badge/android-Android-brightgreen?style=flat&logo=android&label=12)  
 
 I use what language:  
@@ -29,6 +29,9 @@ Windows 10
   
 Debian anyversion(likest)  
 Arch Linux  
+
+My workspace:  
+![workspaceshot1](/assets/img/IMG_20240515_124955.jpg)  
   
 <code>minqwq@localhost ~ $ apt moo</code>  
 
