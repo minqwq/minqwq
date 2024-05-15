@@ -46,7 +46,7 @@ first appear at 2023
 # Contact
 **Instant contact:** (If you are from china...)  
 QQ:1617195774  
-**Leave a message:** (When you have something to tell me or just like me)  
+**Leave a message:** (When you have something to tell me or just like me, anywhere available)  
 E-Mail:minqwq723897@outlook.com  
 Telegram:minqwq723897/sudo echo minqwq(t.me/minqwq723897)  
 Twitter:@minqwq_twi  
