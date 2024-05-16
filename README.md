@@ -19,7 +19,7 @@ I use what language:
 
 I play what game most:  
 ![Static Badge](https://img.shields.io/badge/Java%20Edition-%234F3838?style=flat&logo=minecraft&label=Minecraft)  
-![Static Badge](https://img.shields.io/badge/Yuzusoft-Sabbat%20of%20the%20witch-%23FF9900?style=flat)  
+![Static Badge](https://img.shields.io/badge/nologo-ATRI%20-%20My%20Dear%20Moments%20-%20-%2300AAFF?style=flat)  
 ![Static Badge](https://img.shields.io/badge/lazer-%23FC53FF?style=flat&logo=osu&label=osu!)  
 
 I like what operating system:  
