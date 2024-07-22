@@ -2,7 +2,8 @@
 13yo  
 social phobia  
 only working with my mobile, no computer  
-dont ever think i can write code, i only know markup language  
+~~dont ever think i can write code, i only know markup language~~  
+i can written python, html, css  
 buuut i can draw beautiful pixel art  
 birthday:2011-01-23  
 JavaScript so hard😢  
