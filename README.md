@@ -1,3 +1,4 @@
+GAN SHEN MO!  
 ![私は雨](/im_the_rain.gif)  
 13yo  
 social phobia  
