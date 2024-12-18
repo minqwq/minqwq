@@ -7,7 +7,8 @@
 
 13yo / Coder / Designer / Web developer
 
-Development environment:proot Debian 12 arm64 on Android 12 / MIUI 14 / Redmi Note 9 5G
+Development environment:Debian 12 amd64 on VMWare
+Legacy development environment:proot Debian 12 arm64 on Android 12 / MIUI 14 / Redmi Note 9 5G
 
 Contact here:minqwq723897@outlook.com
 
