@@ -7,7 +7,7 @@
 
 13yo / Coder / Designer / Web developer
 
-Development environment:Windows 7 x86_64 Ultimate with Service Pack 1
+Development environment:Debian GNU/Linux 12 on VMWare 12 Professional
 Legacy development environment:proot Debian 12 arm64 on Android 12 / MIUI 14 / Redmi Note 9 5G
 
 Contact here:minqwq723897@outlook.com
