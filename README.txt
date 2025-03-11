@@ -5,9 +5,9 @@
 |_| |_| |_|_|_| |_|\__, | \_/\_/ \__, |
                       |_|           |_|
 
-13yo / Coder / Designer / Web developer
+15yo / Coder / Designer / Web developer
 
-Development environment:Debian GNU/Linux 12 on VMWare 12 Professional
+Development environment:Debian GNU/Linux 12 on VMWare 12 Professional on Windows 7 Service Pack 1
 Legacy development environment:proot Debian 12 arm64 on Android 12 / MIUI 14 / Redmi Note 9 5G
 
 Contact here:minqwq723897@outlook.com
