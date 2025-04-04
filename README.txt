@@ -5,7 +5,7 @@
   |_| |_| |_|_|_| |_|\__, | \_/\_/ \__, |
                         |_|           |_|
 
-  15yo / Coder / Designer / Web developer
+  14yo / Coder / Designer / Web developer
 2     0     1     0     1     2     2     0
 
 Development environment:Debian GNU/Linux 12 on VMWare 12 Professional on Windows 7 Service Pack 1
